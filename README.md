@@ -4,7 +4,7 @@ This repository holds the Windows installers for **UML (Universal Mod Loader)**.
 
 ## Install
 
-1. Open [Releases](https://github.com/iRelapsedx/uml-releases/releases/latest) and download `UML_<version>_x64-setup.exe`.
+1. Open [Releases](https://github.com/iRelapsedx/UML/releases/latest) and download `UML_<version>_x64-setup.exe`.
 2. Run it. It installs UML for your Windows account only (no administrator rights needed) and adds it to the Start menu.
 
 The installer isn't code-signed yet, so Windows SmartScreen may say it's from an unknown publisher. If you downloaded it from this page, choose **More info → Run anyway**.
